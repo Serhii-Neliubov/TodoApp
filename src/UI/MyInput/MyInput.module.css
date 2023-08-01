@@ -1,0 +1,10 @@
+.myInput {
+  width: 99%;
+  padding: 5px;
+  margin: 2px 0;
+  outline: none;
+  color: teal;
+  font-size: 14px;
+  background: transparent;
+  border: 1px solid teal;
+}
